@@ -5,7 +5,7 @@ A personal portfolio website built with HTML and CSS.
 ## Projects
 
 - **Movie Ranking** - These are my top favourite movies.
-- **Birthday Invite** - My Birthday invitition website for my family & friends.
+- **Birthday Invite** - My Birthday invitation website for my family & friends.
 
 ## What I Practiced
 
@@ -20,4 +20,4 @@ Clone this repository and open `index.html` in a browser.
 
 ## Author
 
-Mohammad Irfan Hossan Rone# html-portfolio
+Mohammad Irfan Hossan Rone
